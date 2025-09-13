@@ -20,7 +20,6 @@ You create a new copy of a repository on GitHub,in your account.
 
 You create a local copy of a remote repository on your computer.
 
-
 ## 6. What is a Pull Request?
 
- A request to for a repository owner to review and merge commits from your branch to a main branch.
+A request for a repository owner to review and merge commits from your branch to a main branch.
